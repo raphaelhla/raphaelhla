@@ -4,7 +4,7 @@
 
 <div align="center">
   <p>
-Atualmente estou concluindo bacharelado em Ciência da Computação na UFCG e sou desenvolvedor back-end com conhecimento Java, Spring Framework, API Rest, JUnit, SQL, MySQL, Docker, Kubernetes e AWS, além de conhecimentos em Clean Code, SOLID, POO.
+Atualmente estou concluindo bacharelado em Ciência da Computação na UFCG e sou desenvolvedor back-end com conhecimento em Java, Spring Framework, API Rest, JUnit, SQL, MySQL, Docker, Kubernetes e AWS, além de conhecimentos em Clean Code, SOLID, POO.
 </p>
   <div style="display: inline_block">
     <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg">
