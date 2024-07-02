@@ -4,7 +4,7 @@
 
 <div align="center">
   <p>
-Sou aluno do curso de Ciência da Computação pela UFCG e atuo como desenvolvedor back-end. Tenho experiência em tecnologias como Linux, Java, Spring Framework, API Rest, JUnit, PostgreSQL, MySQL, Docker, Kubernetes e AWS, além de conhecimentos em Clean Code, SOLID, POO.
+Graduado em Ciência da Computação pela Universidade Federal de Campina Grande e atuo como desenvolvedor back-end. Tenho experiência em tecnologias como Linux, Java, Spring Framework, API Rest, JUnit, PostgreSQL, MySQL, Docker, Kubernetes e AWS, além de conhecimentos em Clean Code, SOLID, POO.
 </p>
   <div style="display: inline_block">
     <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg">
